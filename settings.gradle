@@ -1,0 +1,4 @@
+rootProject.name = 'apollo-server'
+include 'app'
+include 'api'
+

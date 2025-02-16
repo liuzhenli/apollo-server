@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: apollo-server
+
+logging:
+  level:
+    root: INFO
+    com.apollo.apolloserver: DEBUG
+    org.springframework.web: DEBUG
+    org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping: TRACE
